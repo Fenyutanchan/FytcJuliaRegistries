@@ -1,0 +1,6 @@
+name = "FytcJuliaRegistries"
+uuid = "0511cfc5-2457-4d9c-912a-db2d5ce18b46"
+repo = "https://github.com/Fenyutanchan/FytcJuliaRegistries"
+description = "Personal Julia registry for Fenyutanchan's packages."
+
+[packages]
