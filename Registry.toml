@@ -6,3 +6,4 @@ description = "Personal Julia registry for Fenyutanchan's packages."
 [packages]
 61adfb09-12d1-4e3c-91b1-54bf68ca093d = { name = "NaturalUnits", path = "N/NaturalUnits" }
 d9e1aad1-ef5d-4be6-a5bf-f5c472fa8b62 = { name = "FytcUtilities", path = "F/FytcUtilities" }
+e1a6ba65-6bd2-43e2-9141-ae0d892f2e8f = { name = "FytcMCP_arXiv", path = "F/FytcMCP_arXiv" }
