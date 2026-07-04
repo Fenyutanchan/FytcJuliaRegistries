@@ -1,2 +1,5 @@
-[0]
+["0-0.1"]
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
+["0.2-0"]
+FytcPlotRegistries = "619bccf5-858e-452d-bbf1-5ad982edd25a"
