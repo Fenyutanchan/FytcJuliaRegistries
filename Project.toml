@@ -1,3 +1,8 @@
+name = "FytcJuliaRegistry"
+uuid = "0930ce81-7fe5-45b3-a6e0-46c4d140437a"
+version = "0.1.0"
+authors = ["Quan-feng WU <wqf@fytc.ac>"]
+
 [deps]
 ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
 LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
